@@ -55,7 +55,7 @@
     "@babel/core": "^7.8.3",
     "check-dependencies": "^1.1.0",
     "gulp-inject": "^5.0.0",
-    "gulp-svgmin": "^2.0.0",
+    "gulp-svgmin": "^3.0.0",
     "gulp-svgstore": "^7.0.0",
     "svg-sprite-loader": "^4.0.0"
   }
